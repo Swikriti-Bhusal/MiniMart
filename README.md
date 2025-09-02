@@ -23,5 +23,4 @@ Welcome to **MiniMart**, a clean and responsive mini eCommerce website built usi
 
 
 
-   ```bash
-   git clone https://github.com/your-username/minimart-html-css.git
+
